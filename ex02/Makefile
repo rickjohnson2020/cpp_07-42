@@ -1,4 +1,4 @@
-NAME = iter
+NAME = array
 
 BUILD_DIR = build
 
